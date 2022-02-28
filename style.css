@@ -1,0 +1,68 @@
+        body {
+            background-color: lightblue;
+        }
+        
+        .title {
+            text-align: center;
+            margin-top: 100px;
+            font-size: 50px;
+        }
+        
+        .sub {
+            font-size: 30px;
+        }
+        
+        .para {
+            font-size: 20px;
+        }
+        
+        .menu {
+            border-radius: 5px;
+            border-width: 5px;
+            font-size: 40px;
+            text-align: center;
+            padding: 85.5px;
+            padding-bottom: 40px;
+            background-color: darkblue;
+            color: white;
+            text-decoration: none;
+        }
+        
+        nav {
+            text-align: center;
+        }
+        
+        footer {
+            background-color: darkblue;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        
+        .image {
+            width: 49%;
+        }
+        
+        .end {
+            font-size: 20px;
+            color: white;
+        }
+        
+        .link {
+            font-size: 30px;
+        }
+        
+        li {
+            font-size: 20px;
+        }
+        
+        .cap {
+            font-size: 25px;
+        }
+        
+        .gal {
+            width: 40%;
+            border-width: 5px;
+            border-radius: 5px;
+            border-color: red;
+            margin: 2%;
+        }
